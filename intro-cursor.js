@@ -70,7 +70,7 @@
 
   function target() {
     return document.documentElement.classList.contains("site-dark")
-      ? [255, 68, 68]
+      ? [250, 0, 63]
       : [4, 55, 242];
   }
 
